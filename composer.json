@@ -16,14 +16,14 @@
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "KwangSeob Jeong",
-            "email": "lesstif@gmail.com",
-            "homepage": "http://lesstif.com/"
-        },
-        {
             "name": "Gerardo Maldonado",
             "email": "gerardo.maldonado@gmail.com",
             "homepage": "http://flashing-insights.com/"
+        },
+        {
+            "name": "KwangSeob Jeong",
+            "email": "lesstif@gmail.com",
+            "homepage": "http://lesstif.com/"
         }
     ],
     "autoload": {
