@@ -1,13 +1,12 @@
 {
-    "name": "lesstif/php-jira-rest-client",
-    "description": "JIRA REST API Client for PHP Users.",
+    "name": "g3r4/php-jira-rest-client",
+    "description": "Fork of JIRA REST API Client for PHP to not require dontenv, uses env variables instead",
     "type": "library",
     "keywords": ["jira", "rest", "jira-php", "jira-rest"],
     "require": {
         "php": ">=5.5.9",
         "netresearch/jsonmapper": "~0.11|^1.0",
-        "monolog/monolog": "~1.12",
-        "vlucas/phpdotenv": "~2.0"
+        "monolog/monolog": "~1.12"
     },
     "require-dev": {
         "phpunit/phpunit": ">=5.7 <6",
@@ -20,6 +19,11 @@
             "name": "KwangSeob Jeong",
             "email": "lesstif@gmail.com",
             "homepage": "http://lesstif.com/"
+        },
+        {
+            "name": "Gerardo Maldonado",
+            "email": "gerardo.maldonado@gmail.com",
+            "homepage": "http://flashing-insights.com/"
         }
     ],
     "autoload": {
